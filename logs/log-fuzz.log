@@ -1,0 +1,111 @@
+Script started on 2021-05-12 12:39:16-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="121" LINES="44"]
+                                                                                                                         ]0;kali@kali: ~/OSCP/Brainpan[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/OSCP/Brainpan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mN[0m[39m[1m[31mN[1m[31mO[0m[39m[1m[31mN[1m[31mO[1m[31mT[0m[39m[1m[31mT[1m[31mE[0m[39m[1m[31mE[1m[31m:[0m[39m immunity debugger is not running yet, [4mo[24m[24monly [4mb[24m[24mbrainpan.exe[61D[1m[30m#[1m[30mN[1m[30mO[1m[30mT[1m[30mE[1m[30m:[1m[30m [1m[30mi[1m[30mm[1m[30mm[1m[30mu[1m[30mn[1m[30mi[1m[30mt[1m[30my[1m[30m [1m[30md[1m[30me[1m[30mb[1m[30mu[1m[30mg[1m[30mg[1m[30me[1m[30mr[1m[30m [1m[30mi[1m[30ms[1m[30m [1m[30mn[1m[30mo[1m[30mt[1m[30m [1m[30mr[1m[30mu[1m[30mn[1m[30mn[1m[30mi[1m[30mn[1m[30mg[1m[30m [1m[30my[1m[30me[1m[30mt[1m[30m,[1m[30m [1m[30mo[1m[30mn[1m[30ml[1m[30my[1m[30m [1m[30mb[1m[30mr[1m[30ma[1m[30mi[1m[30mn[1m[30mp[1m[30ma[1m[30mn[1m[30m.[1m[30me[1m[30mx[1m[30me[0m[39m[61D[?1l>[?2004l
+                                                                                                                         ]0;kali@kali: ~/OSCP/Brainpan
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/OSCP/Brainpan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mp[24m[38;2;153;153;153mython3 fuzz.py[39m[14D[24m[1m[31mp[1m[31my[0m[39m[1m[31mp[1m[31my[1m[31mt[0m[39m[1m[31mt[1m[31mh[0m[39m[1m[31mh[1m[31mo[0m[39m[0m[32mp[0m[32my[0m[32mt[0m[32mh[0m[32mo[32mn[39m[32mn[32m3[39m[39m [39m[4mf[24m[4mf[39m[4mu[24m[4mu[39m[4mz[39m[4mz[39m[4m.[39m[4mp[39m[4my[24m[1m [0m[0m [?1l>[?2004l
+Sent 100 bytes
+Sent 200 bytes
+Sent 300 bytes
+Sent 400 bytes
+Sent 500 bytes
+Sent 600 bytes
+Sent 700 bytes
+Sent 800 bytes
+Sent 900 bytes
+Sent 1000 bytes
+Sent 1100 bytes
+Sent 1200 bytes
+Sent 1300 bytes
+Sent 1400 bytes
+Sent 1500 bytes
+Sent 1600 bytes
+Sent 1700 bytes
+Sent 1800 bytes
+Sent 1900 bytes
+Sent 2000 bytes
+Sent 2100 bytes
+Sent 2200 bytes
+Sent 2300 bytes
+Sent 2400 bytes
+Sent 2500 bytes
+Sent 2600 bytes
+Sent 2700 bytes
+Sent 2800 bytes
+Sent 2900 bytes
+Sent 3000 bytes
+Sent 3100 bytes
+Sent 3200 bytes
+Sent 3300 bytes
+Sent 3400 bytes
+Sent 3500 bytes
+Sent 3600 bytes
+Sent 3700 bytes
+Sent 3800 bytes
+Sent 3900 bytes
+Sent 4000 bytes
+Sent 4100 bytes
+Sent 4200 bytes
+Sent 4300 bytes
+Sent 4400 bytes
+Sent 4500 bytes
+Sent 4600 bytes
+Sent 4700 bytes
+Sent 4800 bytes
+Sent 4900 bytes
+Sent 5000 bytes
+Sent 5100 bytes
+Sent 5200 bytes
+Sent 5300 bytes
+Sent 5400 bytes
+Sent 5500 bytes
+Sent 5600 bytes
+Sent 5700 bytes
+Sent 5800 bytes
+Sent 5900 bytes
+Sent 6000 bytes
+Sent 6100 bytes
+Sent 6200 bytes
+Sent 6300 bytes
+Sent 6400 bytes
+Sent 6500 bytes
+Sent 6600 bytes
+Sent 6700 bytes
+Sent 6800 bytes
+Sent 6900 bytes
+Sent 7000 bytes
+Sent 7100 bytes
+Sent 7200 bytes
+Sent 7300 bytes
+Sent 7400 bytes
+Sent 7500 bytes
+Sent 7600 bytes
+Sent 7700 bytes
+Sent 7800 bytes
+Sent 7900 bytes
+Sent 8000 bytes
+Sent 8100 bytes
+Sent 8200 bytes
+Sent 8300 bytes
+Sent 8400 bytes
+Sent 8500 bytes
+Sent 8600 bytes
+Sent 8700 bytes
+Sent 8800 bytes
+Sent 8900 bytes
+Sent 9000 bytes
+Sent 9100 bytes
+Sent 9200 bytes
+Sent 9300 bytes
+Sent 9400 bytes
+Sent 9500 bytes
+Unable to connect 192.168.56.103
+[Errno 104] Connection reset by peer
+                                                                                                                         ]0;kali@kali: ~/OSCP/Brainpan
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/OSCP/Brainpan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[30m#[0m[39m[38;2;153;153;153mNOTE: immunity debugger is not running yet, only brainpan.exe[39m[61D[1m[30m#[1m[30mb[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [60D[1m[30m#[1m[30mb[1m[30mu[0m[39m[1m[30mu[1m[30mf[0m[39m[1m[30mf[1m[30mf[0m[39m[1m[30mf[1m[30me[0m[39m[1m[30me[1m[30mr[0m[39m[1m[30mr[1m[30m [0m[39m[1m[30m [1m[30ms[0m[39m[1m[30ms[1m[30mi[0m[39m[1m[30mi[1m[30mz[0m[39m[1m[30mz[1m[30me[0m[39m[1m[30me[1m[30m:[0m[39m[1m[30m:[1m[30m [0m[39m[1m[30m [1m[30m9[0m[39m[1m[30m9[1m[30m5[0m[39m[1m[30m5[1m[30m0[0m[39m[1m[30m0[1m[30m0[0m[39m[?1l>[?2004l
+                                                                                                                         ]0;kali@kali: ~/OSCP/Brainpan
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/OSCP/Brainpan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31me[0m[39m[38;2;153;153;153mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+
+Script done on 2021-05-12 12:39:49-04:00 [COMMAND_EXIT_CODE="0"]
